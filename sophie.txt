@@ -3,7 +3,7 @@
 ! Description: Simple, universal all-in-one AD filtering rules.
 ! Homepage: https://github.com/Natsuki-Kaede/Sophie-List
 ! License: GPLv2
-! Last modified: 2023-01-29T08:15:18.042Z
+! Last modified: 2023-01-29T11:20:54.260Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -29249,6 +29249,7 @@ vkcdnservice.appspot.com^
 ||marriedbelief.com^
 ||massivebasket.com^
 ||measurecaption.com^
+||meltmilk.com^
 ||messyoranges.com^
 ||miscreantmoon.com^
 ||modularmental.com^
@@ -62618,7 +62619,7 @@ directtrack.*.js
 ||1.ajiyuming.com^
 ||1.arpun.com^
 ||1.bh5.com.cn^
-||1.ccutu.com^
+||5.ccutu.com^
 ||1.cjcp.cn^
 ||1.codesdq.com^
 ||1.codezh.com^
@@ -63551,6 +63552,7 @@ directtrack.*.js
 ||1-1ads.com^
 ||1.5646.cn^
 ||1.allyes.com.cn^
+||1.ccutu.com^
 ||1.guyaheng.com^
 ||1.huilv.cc^
 ||1.huobiwang.cc^
@@ -85359,16 +85361,11 @@ directtrack.*.js
 ||zzxlhwyp.com^
 ||zzyanhushi.com^
 ||zzz.onion.pet^
-||pan.huang1111.cn^
-||home.x64bbs.cn^
-||www.x64bbs.cn^
-||a.h1static.cn^
-||huang1111.sharepoint.cn^
-||huang11111.sharepoint.cn^
-||huang2728.sharepoint.com^
-||pro.huang1111.cn^
+||notepad-plus-plus.org^
 ||hao10.click^
+||x64bbs.cn^
 ||lx100.vip^
+||huang1111.cn^
 ||nmhsck.cc^
 ||imhsck.cc^
 ||ithsck.cc^
