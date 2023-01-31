@@ -1,0 +1,1 @@
+hostlist-compiler -c conf-advanced.json -o sophie-advanced.txt
