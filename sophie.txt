@@ -3,7 +3,7 @@
 ! Description: Simple, universal all-in-one AD filtering rules.
 ! Homepage: https://github.com/Natsuki-Kaede/Sophie-List
 ! License: GPLv2
-! Last modified: 2023-01-31T05:09:28.760Z
+! Last modified: 2023-01-31T05:24:28.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
