@@ -3,7 +3,7 @@
 ! Description: Simple, universal all-in-one AD filtering rules.
 ! Homepage: https://github.com/Natsuki-Kaede/Sophie-List
 ! License: GPLv2
-! Last modified: 2023-01-31T02:25:03.834Z
+! Last modified: 2023-01-31T02:28:04.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.15
 !
@@ -88169,6 +88169,13 @@ directtrack.*.js
 ||nmhsck.cc^
 ||imhsck.cc^
 ||ithsck.cc^
+||h1static.cn^
+||jtrincc.cn^
+||cxk1.xyz^
+||xsu1.live^
+||nohsck.cc^
+||ivhsck.cc^
+||jrhsck.cc^
 ||7moor.com^
 ||2005net.net^
 ||3jia5.com^
