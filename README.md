@@ -10,6 +10,8 @@ This rule is automatically updated daily.
 
 # Usages
 
+Hosts (Normal) Version:
+
 Provided by flymc.cc(recommended): https://deliver.flymc.cc/rules/sophie.txt
 
 jsDelivr: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Sophie-List@latest/sophie.txt
@@ -17,6 +19,18 @@ jsDelivr: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Sophie-List@latest/sophie.tx
 raw: https://raw.githubusercontent.com/Natsuki-Kaede/Sophie-List/main/sophie.txt
 
 Or you can copy them into your hosts XD.
+
+---
+
+And now we add an advanced version after [`ec2817c`](https://github.com/Natsuki-Kaede/Sophie-List/commit/ec2817c1d6200437e8af15dbc426b69b187975cc)
+
+Advanced version (Requires ublock origin / AdGuard / AdBlockPlus support) :
+
+Provided by flymc.cc(recommended): https://deliver.flymc.cc/rules/sophie-advanced.txt
+
+jsDelivr: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Sophie-List@latest/sophie-advanced.txt
+
+raw: https://raw.githubusercontent.com/Natsuki-Kaede/Sophie-List/main/sophie-advanced.txt
 
 # Credits
 
