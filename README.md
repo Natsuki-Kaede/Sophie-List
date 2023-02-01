@@ -10,7 +10,9 @@ This rule is automatically updated daily.
 
 # Usages
 
-Hosts (Normal) Version:
+We offer two different versions now:
+
+Hosts (Normal) version:
 
 Provided by flymc.cc(recommended): https://deliver.flymc.cc/rules/sophie.txt
 
